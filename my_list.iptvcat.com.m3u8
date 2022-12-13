@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BET
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bet.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHNynmeFAsbsUh4aThSZ9Jk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/CBSReality.nl.png" group-title="Undefined",CBS Reality HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71161?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CBS Reality
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.reality.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP_FGOQ4yZeu9dP7KIUSVp0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 13 HOUSTON SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBqV9KOQvd0tr5HRla25rP4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",ABC Atlanta
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145786?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/animal.planet.us.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",BET
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145923?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.america.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 10 AMARILLO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIWytV0nioSwZ4GH2vaRh7I/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="News",CBS News New York,CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",COMEDY CENTRAL
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145933?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",COOKING CHANNEL
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145935?checkedby:iptvcat.com
