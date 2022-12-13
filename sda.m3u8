@@ -1,5 +1,4 @@
-#EXTM3U
-
+#extm3u
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BET
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bet.canada.ca.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel HD
